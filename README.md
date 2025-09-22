@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🌐 Personal Portfolio - Monik Malviya
 
 This is my personal portfolio website, built to showcase my projects, skills, and experiences.  
@@ -21,3 +22,5 @@ The portfolio highlights my journey as a developer and serves as a way for recru
 ---
 
 ## 🚀 Getting Started
+=======
+>>>>>>> a0de636 (listed projects)

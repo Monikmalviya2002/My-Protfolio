@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🌐 Personal Portfolio - Monik Malviya
 
 This is my personal portfolio website, built to showcase my projects, skills, and experiences.  

@@ -19,8 +19,5 @@ The portfolio highlights my journey as a developer and serves as a way for recru
 - **Projects** – Selected works with descriptions and links  
 - **Contact** – Quick way to reach me  
 
----
 
-## 🚀 Getting Started
-=======
->>>>>>> a0de636 (listed projects)
+
